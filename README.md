@@ -75,19 +75,22 @@ Mental illness, including depression, anxiety, and bipolar disorder, accounts fo
 ```bash
 git clone https://github.com/yourusername/skimlit-classifier.git
 cd skimlit-classifier
+```
 
 ### Step 2: Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
 
 ### Step 3: Download Pretrained Weights
 ```bash
 Download skimlit_model.h5 and place it in the project directory.
+```
 
 ### Step 4: Run the Application
 ```bash
 streamlit run app.py
-
+```
 
 ---
 
