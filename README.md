@@ -108,6 +108,16 @@ The dataset is used to explore how NLP models can classify sentences based on th
 
 ---
 
+## 🖼 Screenshots
+* Main Interface
+![image](https://github.com/user-attachments/assets/57664dcb-f659-4f51-a22c-1d933e36d15a)
+
+* Classification Results
+![image](https://github.com/user-attachments/assets/b6b0c3dc-c4a2-4a33-85fd-316ebe401f8f)
+![image](https://github.com/user-attachments/assets/661c3387-7600-4fad-bb45-556651f3cf4b)
+
+
+---
 
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
@@ -127,5 +137,5 @@ Contributions are always welcome! If you'd like to contribute, please:
 ## ✉️ Contact
 For questions, feedback, or collaborations, reach out via:
 
-Email: Piyushbist10@gmail.com
-GitHub: Pacifier25
+* Email: Piyushbist10@gmail.com
+* GitHub: Pacifier25
