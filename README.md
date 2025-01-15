@@ -109,10 +109,10 @@ The dataset is used to explore how NLP models can classify sentences based on th
 ---
 
 ## 🖼 Screenshots
-* Main Interface
+* **Main Interface**
 ![image](https://github.com/user-attachments/assets/57664dcb-f659-4f51-a22c-1d933e36d15a)
 
-* Classification Results
+* **Classification Results**
 ![image](https://github.com/user-attachments/assets/b6b0c3dc-c4a2-4a33-85fd-316ebe401f8f)
 ![image](https://github.com/user-attachments/assets/661c3387-7600-4fad-bb45-556651f3cf4b)
 
